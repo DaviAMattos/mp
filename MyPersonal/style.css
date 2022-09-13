@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color:white
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 150px;
+}
+
+.navmenu 
+{
+    display: flex;
+    ;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+	position: relative;
+	font-family: 'Open Sans', serif;
+	font-weight: 600;
+
+}
